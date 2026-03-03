@@ -1,1 +1,1 @@
-print('NLQ')
+print('NLQ - Natural Language Querying')
