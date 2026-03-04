@@ -10,4 +10,4 @@ async def ping():
     """
     A simple endpoint to test if the API is working.
     """
-    return {"message": "pong"}
+    return {"message": "pong pong!"}
