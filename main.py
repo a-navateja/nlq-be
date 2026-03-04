@@ -1,1 +1,0 @@
-print('NLQ - Natural Language Querying')
